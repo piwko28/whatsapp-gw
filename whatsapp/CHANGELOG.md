@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.7.1-dev-20260705-1216-2d31c13 (2026-07-05)
+
+### 🚀 Other
+- GitHub Actions to build WhatsApp solution into standalone docker container ([`a772cdab`](https://github.com/piwko28/whatsapp-gw/commit/a772cdabbd030d89496ecdc7adb1759d76b7ec7e))
+
+
 ## 1.7.0 (2026-07-01)
 
 ### ✨ Features

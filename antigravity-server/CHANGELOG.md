@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.1-dev-20260705-1216-c9eaf2b (2026-07-05)
+
+### 📦 Dependencies
+- ⬆️ Update dependency Eidolf/Docker-AntiGravity to v2026.6.3 [skip-tests] ([`c9eaf2b5`](https://github.com/piwko28/whatsapp-gw/commit/c9eaf2b507279bc39d2c8e96bb5ba2f4aa0f37b8))
+
+
 ## 1.3.0 (2026-06-16)
 
 ### 📦 Dependencies

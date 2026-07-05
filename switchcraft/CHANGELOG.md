@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.1-dev-20260705-1216-38963dc (2026-07-05)
+
+### 🔧 Configuration
+- fix ruff linting errors ([`38963dca`](https://github.com/piwko28/whatsapp-gw/commit/38963dcaf44e5d8918507ed18e200d5d8eee1ba2))
+
+
 ## 0.3.0 (2026-06-16)
 
 ### 🚀 Other
